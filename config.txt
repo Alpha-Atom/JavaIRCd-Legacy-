@@ -1,0 +1,2 @@
+%pingtimeout=121
+%ircaddress=888.888.888.888
